@@ -6,7 +6,7 @@ Admiro o universo da tecnologia e sou apaixonado por ele desde a minha infância
 
 Atualmente imerso em Javrascript e Vue.js
 
-Skills: HTML, CSS, Javascript, Jquery, Vue.js, Vuetify e PWA
+Skills: HTML, CSS, Javascript, Vue.js, Vuetify e PWA
 
 <img width="400px" src="https://welcome.atlasgov.com/hubfs/site/plataforma/plataforma.svg" />
 
